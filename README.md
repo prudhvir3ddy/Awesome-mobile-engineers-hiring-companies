@@ -6,6 +6,7 @@
 | Amazon          |  DSA                | London            | e-commerce      |
 | Atlassian       |                     |                   |                 |
 | Booking.com     |                     |                   |                 |
+| Bookmyshow      |                     | Mumbai            |                 |
 | Compass         |                     |                   |                 |
 | Cred            |  UI                 | Bengaluru         | Fintech,Startup |
 | Cure.fit        | react-native        | Bengaluru         |                 |
