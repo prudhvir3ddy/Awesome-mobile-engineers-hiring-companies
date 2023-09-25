@@ -58,4 +58,4 @@
 |Walmart         |                           |                 |               |
 |Yelp            |                           |                 |               |
 |Zeta            |Android                    |                 |Fintech        |
-|Zomato          |Android                    |                 |               |
+|Zomato          |Android                    |Gurgaon          |               |
