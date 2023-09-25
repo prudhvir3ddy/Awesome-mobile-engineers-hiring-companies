@@ -1,61 +1,60 @@
-|Name            |Skills                     |Location         |notes          |
-|----------------|---------------------------|-----------------|---------------|
-|Adobe           |                           |                 |               |
-|Airbnb          |                           |                 |               |
-|Airtel digital  |                           |                 |               |
-|Amazon          |Android, DSA               |Hyderabad, London|               |
-|Atlassian       |                           |                 |               |
-|Booking.com     |                           |                 |               |
-|Compass         |Android                    |                 |               |
-|Cred            |Android, UI                |Banglore         |Fintech,Startup|
-|Cure.fit        |react-native               |Banglore         |e-commerce     |
-|Deliveroo       |                           |                 |               |
-|Deliveroo       |                           |                 |               |
-|Delivery Hero   |                           |                 |               |
-|Dream11         |                           |                 |               |
-|Dropbox         |                           |                 |               |
-|Dunzo           |                           |                 |               |
-|Expedia         |                           |                 |               |
-|Flipkart        |DSA                        |                 |               |
-|Github          |                           |                 |               |
-|Gojek           |Android, system-design     |Banglore         |               |
-|Google          |DSA                        |Banglore, London |               |
-|Grab            |Android                    |                 |               |
-|Groww           |                           |                 |               |
-|Hello Fresh     |                           |                 |               |
-|Hotstar         |                           |                 |               |
-|jiocinema       |                           |                 |               |
-|Linkedin        |                           |                 |social-media   |
-|lyft            |                           |                 |               |
-|Meesho          |                           |                 |e-commerce     |
-|Meta            |DSA, system-design         |London           |               |
-|Microsoft       |Android, DSA               |                 |               |
-|Mutual Mobile   |                           |                 |               |
-|Navi            |Android                    |                 |               |
-|Netflix         |DSA                        |                 |e-commerce     |
-|Paytm           |                           |                 |               |
-|Phonepe         |Android                    |                 |               |
-|Rapido          |                           |                 |               |
-|Reddit          |                           |                 |Fintech        |
-|Revolut         |                           |                 |               |
-|salesforce      |                           |                 |               |
-|Sharechat       |                           |                 |               |
-|Shopify         |                           |                 |e-commerce     |
-|Slack           |                           |                 |               |
-|Slice           |                           |                 |Fintech        |
-|Soundcloud      |                           |                 |               |
-|Spotify         |                           |                 |               |
-|Square / Blocks |Android, open-source       |                 |               |
-|Swiggy          |Android                    |Banglore         |               |
-|Target          |                           |                 |               |
-|Thoughtworks    |                           |                 |               |
-|Tide            |                           |                 |               |
-|Twitter         |                           |                 |               |
-|Uber            |Android, DSA, system-design|Hyderabad        |               |
-|Unacademy       |                           |                 |Ed-Tech        |
-|Urban company   |Android                    |                 |               |
-|Visa            |                           |                 |               |
-|Walmart         |                           |                 |               |
-|Yelp            |                           |                 |               |
-|Zeta            |Android                    |                 |Fintech        |
-|Zomato          |Android                    |Gurgaon          |               |
+| Name            | Skills              | Location          | notes           |
+|-----------------|---------------------|-------------------|-----------------|
+| Adobe           |                     |                   |                 |
+| Airbnb          |                     |                   |                 |
+| Airtel digital  |                     |                   |                 |
+| Amazon          |  DSA                | London            | e-commerce      |
+| Atlassian       |                     |                   |                 |
+| Booking.com     |                     |                   |                 |
+| Compass         |                     |                   |                 |
+| Cred            |  UI                 | Bengaluru         | Fintech,Startup |
+| Cure.fit        | react-native        | Bengaluru         |                 |
+| Deliveroo       |                     |                   |                 |
+| Delivery Hero   |                     |                   |                 |
+| Dream11         |                     |                   |                 |
+| Dropbox         |                     |                   |                 |
+| Dunzo           |                     |                   |                 |
+| Expedia         |                     |                   |                 |
+| Flipkart        | DSA                 |                   |                 |
+| Github          |                     |                   |                 |
+| Gojek           |  system-design      | Bengaluru         |                 |
+| Google          | DSA                 | Bengaluru, London |                 |
+| Grab            |                     |                   |                 |
+| Groww           |                     |                   |                 |
+| Hello Fresh     |                     |                   |                 |
+| Hotstar         |                     |                   |                 |
+| jiocinema       |                     |                   |                 |
+| Linkedin        |                     |                   | social-media    |
+| lyft            |                     |                   |                 |
+| Meesho          |                     |                   | e-commerce      |
+| Meta            | DSA, system-design  | London            |                 |
+| Microsoft       |  DSA                |                   |                 |
+| Mutual Mobile   |                     |                   |                 |
+| Navi            |                     |                   |                 |
+| Netflix         | DSA                 |                   | e-commerce      |
+| Paytm           |                     |                   |                 |
+| Phonepe         |                     |                   |                 |
+| Rapido          |                     |                   |                 |
+| Reddit          |                     |                   | Fintech         |
+| Revolut         |                     |                   |                 |
+| salesforce      |                     |                   |                 |
+| Sharechat       |                     |                   |                 |
+| Shopify         |                     |                   | e-commerce      |
+| Slack           |                     |                   |                 |
+| Slice           |                     |                   | Fintech         |
+| Soundcloud      |                     |                   |                 |
+| Spotify         |                     |                   |                 |
+| Square / Blocks |  open-source, LLD   |                   |                 |
+| Swiggy          |                     | Bengaluru         |                 |
+| Target          |                     | Bengaluru         |                 |
+| Thoughtworks    |                     |                   |                 |
+| Tide            |                     |                   |                 |
+| Twitter         |                     |                   |                 |
+| Uber            |  DSA, system-design | Hyderabad         |                 |
+| Unacademy       |                     |                   | Ed-Tech         |
+| Urban company   |                     |                   |                 |
+| Visa            |                     |                   |                 |
+| Walmart         |                     |                   |                 |
+| Yelp            |                     |                   |                 |
+| Zeta            |                     |                   | Fintech         |
+| Zomato          |                     | Gurgaon           |                 |
